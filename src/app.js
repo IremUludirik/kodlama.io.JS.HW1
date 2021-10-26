@@ -13,7 +13,6 @@ function save(puan=10, ogrenci) {
 save(undefined, student);
 
 
-
 //ARRAY
 let students = ["Engin Demiroğ", "Kavun", "İrem Uludirik", "Marmelat"]
 //console.log(students)
